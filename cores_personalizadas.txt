@@ -1,0 +1,6 @@
+cores_personalizadas = {
+                0.0: '#4daf4a',  # Verde intermediário
+                0.5: '#ff9999',  # Vermelho leve
+                1.0: '#e41a1c',  # Vermelho intermediário
+                2.0: '#990000'   # Vermelho intenso
+            }
